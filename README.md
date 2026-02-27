@@ -46,8 +46,6 @@ This project proposes a web-based Smart Event Management System that automates:
 
 This system simplifies event management, reduces manual work, and improves efficiency.
 ---
-Developed By
-Nowdharani S
 
 ## 👩‍💻 Developed By
 Your Name
