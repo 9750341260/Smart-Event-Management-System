@@ -1,77 +1,50 @@
 # Smart-Event-Management-System
 
+# Smart Event Management System
+
 ## Problem Statement
-College events such as seminars, workshops, and symposiums often face issues in:
+
+College events such as seminars, workshops, and symposiums face issues in:
 - Manual registration
 - Poor communication
-- Attendance tracking difficulties
+- Attendance tracking
 - Manual certificate generation
 
----
-
 ## Proposed Solution
-The Smart Event Management System is a web-based application that simplifies:
 
--  Event announcements
--  Online registration
--  QR-based attendance tracking
--  Automatic certificate generation
+This project proposes a web-based Smart Event Management System that automates:
 
----
+- Event announcements
+- Online registration
+- QR-based attendance tracking
+- Automatic certificate generation
 
-##  Features
+## System Workflow
 
-###  Admin
-- Create and manage events
-- View registered participants
-- Generate QR codes
-- Track attendance
-- Generate certificates
+1. Admin creates event
+2. Students register online
+3. System generates unique QR code
+4. Admin scans QR during event
+5. Certificate is generated automatically
 
-###  Student
-- View available events
-- Register online
-- Receive QR code
-- Mark attendance via QR scan
-- Download participation certificate
+## Technologies Used
 
----
-
-##  Tech Stack
-- Frontend: HTML / CSS / JavaScript (or React)
-- Backend: Node.js / Express (or Firebase)
-- Database: MongoDB / Firestore
+- HTML
+- CSS
+- Python (Flask)
 - QR Code Generator
-- PDF Certificate Generator
+- PDF Generator
 
----
+## Future Enhancements
 
-##  Project Structure
-
-smart-event-management/
-│── frontend/
-│── backend/
-│── screenshots/
-│── README.md
-
----
-
-##  How to Run the Project
-
-1. Clone the repository
-2. Install dependencies
-3. Run the server
-4. Open in browser
-
----
-
-##  Future Enhancements
 - Email notifications
-- Payment gateway integration
+- Payment integration
 - Analytics dashboard
-- Role-based authentication
-- Mobile application version
+- Mobile app version
 
+## Conclusion
+
+This system simplifies event management, reduces manual work, and improves efficiency.
 ---
 Developed By
 Nowdharani S
