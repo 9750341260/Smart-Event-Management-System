@@ -1,7 +1,5 @@
 # Smart-Event-Management-System
 
-# Smart Event Management System
-
 ## Problem Statement
 
 College events such as seminars, workshops, and symposiums face issues in:
