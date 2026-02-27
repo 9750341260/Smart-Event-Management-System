@@ -73,6 +73,8 @@ smart-event-management/
 - Mobile application version
 
 ---
+Developed By
+Nowdharani S
 
 ## 👩‍💻 Developed By
 Your Name
